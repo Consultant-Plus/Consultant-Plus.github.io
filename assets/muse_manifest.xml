@@ -1,0 +1,25 @@
+<manifest alg="2" build="30" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="3983832653"/>
+    <file name="__________.css" crc="349419003" ref="информация"/>
+    <file name="index.css" crc="4113068318" ref="index"/>
+    <file name="________.css" crc="349216736" ref="контакты"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="информация:контакты:index"/>
+    <file name="museutils.js" crc="3880880085" ref="информация:контакты:index"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="информация:контакты:index"/>
+    <file name="jquery.scrolleffects.js" crc="56249048" ref="информация:контакты:index"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="информация:контакты:index"/>
+  </folder>
+  <folder name="images">
+    <file name="67.jpg" crc="4107396478" ref="информация"/>
+    <file name="98.jpg" crc="4223189762" ref="контакты"/>
+    <file name="freevector-global-business-background-1.jpg" crc="4149881503" ref="index"/>
+    <file name="0н.png" crc="4255967436" ref="index"/>
+    <file name="консультант--favicon.ico" crc="251271483" ref="index"/>
+  </folder>
+  <file name="информация.html" crc="4054989422" mt="1508096011779" redirect="true"/>
+  <file name="контакты.html" crc="142293529" mt="1508098477216" redirect="true"/>
+  <file name="index.html" crc="80849533" mt="1508101179269" redirect="true"/>
+</manifest>
