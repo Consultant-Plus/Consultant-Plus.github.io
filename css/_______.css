@@ -6,39 +6,39 @@
 #page
 {
 	z-index: 1;
-	width: 1200px;
-	min-height: 499.24265242748334px;
+	width: 960px;
+	min-height: 499.63929701451px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #000000;
-	padding-bottom: 1px;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #page_position_content
 {
-	margin-top: 40px;
-	margin-bottom: -37px;
+	margin-top: 77px;
+	margin-bottom: -30px;
 }
 
 #menuu2272
 {
-	z-index: 24;
-	width: 1906px;
+	z-index: 23;
+	width: 1161px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #000000;
 	position: fixed;
 	top: -39px;
-	left: -353px;
+	left: -101px;
 }
 
 #u2293
 {
-	width: 634px;
+	width: 385px;
 	min-height: 117px;
 	position: relative;
 	margin-right: -10000px;
@@ -46,8 +46,8 @@
 
 #u2294
 {
-	width: 634px;
-	background: #0000FF url("../images/u2294-grad.png") repeat-x left top;
+	width: 385px;
+	background: #0000FF url("../images/u2331-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #FFFFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#FFFFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#FFFFFF 58%,#0000FF );
@@ -60,7 +60,7 @@
 
 #u2294:hover
 {
-	background: #0000FF url("../images/u2294-r-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2331-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #00FFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#00FFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#00FFFF 58%,#0000FF );
@@ -72,7 +72,7 @@
 
 #u2294:active
 {
-	background: #0000FF url("../images/u2294-r-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2331-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #00FFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#00FFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#00FFFF 58%,#0000FF );
@@ -84,15 +84,15 @@
 
 #u2297-4
 {
-	width: 634px;
+	width: 385px;
 	min-height: 43px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FF0000;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
+	color: #FF0000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -117,17 +117,17 @@
 
 #u2273
 {
-	width: 634px;
+	width: 386px;
 	min-height: 117px;
 	position: relative;
 	margin-right: -10000px;
-	left: 636px;
+	left: 387px;
 }
 
 #u2276
 {
-	width: 634px;
-	background: #0000FF url("../images/u2294-grad.png") repeat-x left top;
+	width: 386px;
+	background: #0000FF url("../images/u2331-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #FFFFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#FFFFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#FFFFFF 58%,#0000FF );
@@ -140,7 +140,7 @@
 
 #u2276:hover
 {
-	background: #0000FF url("../images/u2294-r-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2331-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #00FFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#00FFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#00FFFF 58%,#0000FF );
@@ -152,7 +152,7 @@
 
 #u2276:active
 {
-	background: #0000FF url("../images/u2294-r-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2331-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #00FFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#00FFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#00FFFF 58%,#0000FF );
@@ -164,15 +164,15 @@
 
 #u2279-4
 {
-	width: 634px;
+	width: 386px;
 	min-height: 43px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FF0000;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
+	color: #FF0000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -197,17 +197,17 @@
 
 #u2300
 {
-	width: 634px;
+	width: 386px;
 	min-height: 117px;
 	position: relative;
 	margin-right: -10000px;
-	left: 1272px;
+	left: 775px;
 }
 
 #u2301
 {
-	width: 634px;
-	background: #0000FF url("../images/u2294-grad.png") repeat-x left top;
+	width: 386px;
+	background: #0000FF url("../images/u2331-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #FFFFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#FFFFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#FFFFFF 58%,#0000FF );
@@ -220,7 +220,7 @@
 
 #u2301.MuseMenuActive
 {
-	background: #0000FF url("../images/u2294-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2331-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #FFFFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#FFFFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#FFFFFF 58%,#0000FF );
@@ -232,15 +232,15 @@
 
 #u2304-4
 {
-	width: 634px;
+	width: 386px;
 	min-height: 43px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	color: #FF0000;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
+	color: #FF0000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -284,44 +284,26 @@
 	cursor: pointer;
 }
 
-#pu1529
+#pu1902
 {
 	width: 0.01px;
-	left: -353px;
+	left: -101px;
 	position: relative;
-}
-
-#u1529
-{
-	z-index: 2;
-	width: 1159px;
-	height: 632px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: #000000;
-	opacity: 0.66;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=66)";
-	filter: alpha(opacity=66);
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 147px;
-	left: 373px;
 }
 
 #u1902
 {
-	z-index: 5;
-	width: 1906px;
+	z-index: 4;
+	width: 1161px;
 	position: relative;
 	margin-right: -10000px;
 }
 
 #u1944
 {
-	z-index: 7;
-	width: 1905px;
-	height: 735px;
+	z-index: 6;
+	width: 1159px;
+	height: 448px;
 	background: #000000 url("../images/u1944-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, from(#0000FF),color-stop(60%, #000000));
 	background: -webkit-linear-gradient(top,#0000FF ,#000000 60%);
@@ -337,23 +319,22 @@
 	filter: alpha(opacity=90);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 255px;
+	margin-top: 202px;
 }
 
 #u1945-14
 {
-	z-index: 8;
-	width: 1160px;
-	min-height: 1140px;
+	z-index: 7;
+	width: 1161px;
+	min-height: 1146px;
 	text-align: center;
+	line-height: 73px;
+	font-size: 60px;
 	color: #FFFFFF;
-	line-height: 88px;
-	font-size: 72px;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 272px;
-	left: 373px;
+	margin-top: 212px;
 }
 
 #u1945
@@ -363,20 +344,20 @@
 
 #u2269
 {
-	z-index: 22;
-	width: 1930px;
-	left: -358px;
-	top: -185px;
-	margin-bottom: -48px;
+	z-index: 21;
+	width: 1175px;
+	left: -106px;
+	top: -588px;
+	margin-bottom: -29px;
 	position: relative;
 }
 
 #u1582
 {
-	z-index: 3;
+	z-index: 2;
 	width: 149px;
-	margin-left: 525px;
-	margin-top: 3px;
+	margin-left: 405px;
+	margin-top: 13px;
 	position: relative;
 }
 

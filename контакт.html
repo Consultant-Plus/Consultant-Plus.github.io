@@ -8,7 +8,7 @@
   <title>КОНТАКТ</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?465537477"/>
-  <link rel="stylesheet" type="text/css" href="css/_______.css?289710734" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/_______.css?4048244921" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -29,12 +29,11 @@
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive gradient clearfix colelem" id="u2301" href="%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u2304-4"><!-- content --><p>КОНТАКТ</p></div></a>
      </li>
     </ul>
-    <div class="clearfix colelem" id="pu1529"><!-- group -->
-     <div class="grpelem" id="u1529"><!-- simple frame --></div>
+    <div class="clearfix colelem" id="pu1902"><!-- group -->
      <div class="clip_frame grpelem" id="u1902"><!-- image -->
-      <img class="block" id="u1902_img" src="images/562469898.jpg" alt="" width="1906" height="1264"/>
+      <img class="block" id="u1902_img" src="images/562469898.jpg" alt="" width="1161" height="770"/>
      </div>
-     <div class="gradient grpelem" id="u1944"><!-- simple frame --></div>
+     <div class="gradient browser_width grpelem" id="u1944"><!-- simple frame --></div>
      <div class="clearfix grpelem" id="u1945-14"><!-- content -->
       <p><span id="u1945">АДРЕС МЕСТОНАХОЖДЕНИЯ:</span></p>
       <p>127 254,</p>
@@ -46,7 +45,7 @@
     </div>
     <div class="verticalspacer"></div>
     <div class="clip_frame colelem" id="u2269"><!-- image -->
-     <img class="block" id="u2269_img" src="images/555.png" alt="" width="1930" height="48"/>
+     <img class="block" id="u2269_img" src="images/555.png" alt="" width="1175" height="29"/>
     </div>
     <div class="clip_frame colelem" id="u1582"><!-- image -->
      <img class="block" id="u1582_img" src="images/888.png" alt="" width="149" height="99"/>
@@ -55,8 +54,8 @@
   </div>
   <!--[if lt IE 9]>
   <div class="preload_images">
-   <img class="preload" src="images/u2294-r-grad.png" alt=""/>
-   <img class="preload" src="images/u2294-grad.png" alt=""/>
+   <img class="preload" src="images/u2331-r-grad.png" alt=""/>
+   <img class="preload" src="images/u2331-grad.png" alt=""/>
   </div>
   <![endif]-->
   <!-- JS includes -->
@@ -69,11 +68,13 @@
   <script src="scripts/museutils.js?3880880085" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?32367222" type="text/javascript"></script>
   <script src="scripts/jquery.scrolleffects.js?56249048" type="text/javascript"></script>
+  <script src="scripts/jquery.tobrowserwidth.js?152985095" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?4199601726" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+$('.browser_width').toBrowserWidth();/* browser width elements */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 $('#menuu2272').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-5]},{"speed":[0,0],"in":[-5,Infinity]}]);/* scroll effect */
