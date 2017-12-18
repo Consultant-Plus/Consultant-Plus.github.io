@@ -1,8 +1,8 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="465537477"/>
-    <file name="index.css" crc="107393799" ref="index"/>
-    <file name="__________.css" crc="74400579" ref="информация"/>
+    <file name="index.css" crc="3969187696" ref="index"/>
+    <file name="__________.css" crc="4160431685" ref="информация"/>
     <file name="_______.css" crc="289710734" ref="контакт"/>
   </folder>
   <folder name="scripts">
@@ -15,13 +15,13 @@
   <folder name="images">
     <file name="888.png" crc="401176103" ref="index:информация:контакт"/>
     <file name="favicon.ico" crc="251271483" ref="информация"/>
-    <file name="u2331-grad.png" crc="3894198690" ref="информация"/>
-    <file name="u2331-r-grad.png" crc="113299158" ref="информация"/>
+    <file name="u2331-grad.png" crc="3894198690" ref="информация:index"/>
+    <file name="u2331-r-grad.png" crc="113299158" ref="информация:index"/>
     <file name="562469848.png" crc="202483470" ref="информация"/>
     <file name="555.png" crc="3835631014" ref="информация:контакт:index"/>
     <file name="контакт-favicon.ico" crc="251271483" ref="контакт"/>
     <file name="562469898.jpg" crc="4252537956" ref="контакт"/>
-    <file name="консультант--favicon.ico" crc="3948558824" ref="index"/>
+    <file name="консультант--favicon.ico" crc="3900705680" ref="index"/>
     <file name="==.png" crc="4203373968" ref="index"/>
     <file name="102744700_2aa.jpg" crc="240833064" ref="index"/>
     <file name="562470077.png" crc="3986089350" ref="index"/>
@@ -32,11 +32,9 @@
     <file name="09.jpg" crc="3906207878" ref="index"/>
     <file name="u2294-grad.png" crc="3894198690" ref="контакт"/>
     <file name="u2294-r-grad.png" crc="113299158" ref="контакт"/>
-    <file name="u2193-grad.png" crc="3894198690" ref="index"/>
-    <file name="u2200-r-grad.png" crc="113299158" ref="index"/>
     <file name="u1944-grad.png" crc="4028342496" ref="контакт"/>
   </folder>
-  <file name="index.html" crc="4027554964" mt="1509163654506" redirect="true"/>
-  <file name="информация.html" crc="528322269" mt="1509158146613" redirect="true"/>
+  <file name="index.html" crc="193597814" mt="1509235275474" redirect="true"/>
+  <file name="информация.html" crc="4151053004" mt="1513567696558" redirect="true"/>
   <file name="контакт.html" crc="3901859412" mt="1509165469372" redirect="true"/>
 </manifest>

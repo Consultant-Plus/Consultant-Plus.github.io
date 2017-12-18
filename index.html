@@ -4,16 +4,27 @@
 
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="7.4.30.244"/>
-  <link rel="shortcut icon" href="images/%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82--favicon.ico?3948558824"/>
+  <link rel="shortcut icon" href="images/%d0%ba%d0%be%d0%bd%d1%81%d1%83%d0%bb%d1%8c%d1%82%d0%b0%d0%bd%d1%82--favicon.ico?3900705680"/>
   <title>КОНСУЛЬТАНТ+</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?465537477"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?107393799" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?3969187696" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
 </script>
-   </head>
+    <!--custom head HTML-->
+  <script src="scripts/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script>
+$(document).ready(function(){
+
+$('.sound').html('<audio id="soundcard" src="assets/start.wav"></audio>');
+document.getElementById("soundcard").play();
+});
+</script>
+<div class="sound"> </div>
+
+ </head>
  <body>
 
   <div class="clearfix" id="page"><!-- column -->
@@ -40,6 +51,14 @@
      <div class="clip_frame grpelem" id="u2053"><!-- image -->
       <img class="block" id="u2053_img" src="images/%3d%3d.png" alt="" width="1906" height="635"/>
      </div>
+     <div class="grpelem" id="u2363"><!-- custom html -->
+      <audio autoplay preload="auto" loop>
+    <source src="assets/music.ogg" type='audio/ogg; codecs=vorbis'>
+    <source src="assets/BLOOMIN-STAR.WAV" type="audio/mpeg">
+    Тег audio не поддерживается вашим браузером. <a href="assets/music.mp3">Скачайте музыку</a>.
+   </audio>
+
+</div>
     </div>
     <div class="verticalspacer"></div>
     <div class="clip_frame clearfix mse_pre_init" id="u2099"><!-- image -->
@@ -103,8 +122,8 @@
   </div>
   <!--[if lt IE 9]>
   <div class="preload_images">
-   <img class="preload" src="images/u2193-grad.png" alt=""/>
-   <img class="preload" src="images/u2200-r-grad.png" alt=""/>
+   <img class="preload" src="images/u2331-grad.png" alt=""/>
+   <img class="preload" src="images/u2331-r-grad.png" alt=""/>
   </div>
   <![endif]-->
   <!-- JS includes -->
@@ -124,8 +143,8 @@
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-$('#menuu2184').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-5.2]},{"speed":[0,0],"in":[-5.2,Infinity]}]);/* scroll effect */
-$('#u2099').registerPositionScrollEffect([{"speed":[0,-0.2],"in":[-Infinity,-64.05]},{"speed":[0,0],"in":[-64.05,Infinity]}]);/* scroll effect */
+$('#menuu2184').registerPositionScrollEffect([{"in":[-Infinity,-2.7],"speed":[0,1]},{"in":[-2.7,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u2099').registerPositionScrollEffect([{"in":[-Infinity,-64.05],"speed":[0,-0.2]},{"in":[-64.05,Infinity],"speed":[0,0]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
