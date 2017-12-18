@@ -8,7 +8,7 @@
   <title>CONTACT</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?465537477"/>
-  <link rel="stylesheet" type="text/css" href="css/contact.css?3824862379" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/contact.css?3872980285" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -19,8 +19,8 @@
   <div class="clearfix" id="page"><!-- column -->
    <div class="position_content" id="page_position_content">
     <ul class="MenuBar clearfix mse_pre_init" id="menuu2272"><!-- horizontal box -->
-     <li class="MenuItemContainer clearfix grpelem" id="u2293"><!-- vertical box -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu gradient clearfix colelem" id="u2294" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u2297-4"><!-- content --><p>КОНСУЛЬТАНТ+</p></div></a>
+     <li class="MenuItemContainer clearfix grpelem" id="u2500"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu gradient clearfix colelem" id="u2501" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u2504-4"><!-- content --><p>КОНСУЛЬТАНТ+</p></div></a>
      </li>
      <li class="MenuItemContainer clearfix grpelem" id="u2273"><!-- vertical box -->
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu gradient clearfix colelem" id="u2276" href="information.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u2279-4"><!-- content --><p>INFORMATION</p></div></a>
@@ -29,12 +29,12 @@
       <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive gradient clearfix colelem" id="u2301" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u2304-4"><!-- content --><p>CONTACT</p></div></a>
      </li>
     </ul>
+    <div class="clip_frame mse_pre_init" id="u1902"><!-- image -->
+     <img class="block" id="u1902_img" src="images/562469898.jpg" alt="" width="1400" height="929"/>
+    </div>
     <div class="clearfix colelem" id="pu1529"><!-- group -->
      <div class="grpelem" id="u1529"><!-- simple frame --></div>
-     <div class="clip_frame grpelem" id="u1902"><!-- image -->
-      <img class="block" id="u1902_img" src="images/562469898.jpg" alt="" width="1906" height="1264"/>
-     </div>
-     <div class="gradient grpelem" id="u1944"><!-- simple frame --></div>
+     <div class="gradient browser_width grpelem" id="u1944"><!-- simple frame --></div>
      <div class="clearfix grpelem" id="u1945-14"><!-- content -->
       <p><span id="u1945">АДРЕС МЕСТОНАХОЖДЕНИЯ:</span></p>
       <p>127 254,</p>
@@ -45,9 +45,6 @@
      </div>
     </div>
     <div class="verticalspacer"></div>
-    <div class="clip_frame colelem" id="u2269"><!-- image -->
-     <img class="block" id="u2269_img" src="images/555.png" alt="" width="1930" height="48"/>
-    </div>
     <div class="clip_frame colelem" id="u1582"><!-- image -->
      <img class="block" id="u1582_img" src="images/888.png" alt="" width="149" height="99"/>
     </div>
@@ -55,8 +52,8 @@
   </div>
   <!--[if lt IE 9]>
   <div class="preload_images">
-   <img class="preload" src="images/u2331-r-grad.png" alt=""/>
-   <img class="preload" src="images/u2331-grad.png" alt=""/>
+   <img class="preload" src="images/u2440-r-grad.png" alt=""/>
+   <img class="preload" src="images/u2440-grad.png" alt=""/>
   </div>
   <![endif]-->
   <!-- JS includes -->
@@ -69,14 +66,17 @@
   <script src="scripts/museutils.js?3880880085" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?32367222" type="text/javascript"></script>
   <script src="scripts/jquery.scrolleffects.js?56249048" type="text/javascript"></script>
+  <script src="scripts/jquery.tobrowserwidth.js?152985095" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?4199601726" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    $(document).ready(function() { try {
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+$('.browser_width').toBrowserWidth();/* browser width elements */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 $('#menuu2272').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,-5]},{"speed":[0,0],"in":[-5,Infinity]}]);/* scroll effect */
+$('#u1902').registerPositionScrollEffect([{"speed":[0,-0.3],"in":[-Infinity,-2.5]},{"speed":[0,0],"in":[-2.5,Infinity]}]);/* scroll effect */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

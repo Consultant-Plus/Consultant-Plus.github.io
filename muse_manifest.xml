@@ -1,9 +1,9 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="465537477"/>
-    <file name="index.css" crc="3969187696" ref="index"/>
-    <file name="information.css" crc="4160431685" ref="information"/>
-    <file name="contact.css" crc="3824862379" ref="contact"/>
+    <file name="index.css" crc="119355481" ref="index"/>
+    <file name="information.css" crc="3953093989" ref="information"/>
+    <file name="contact.css" crc="3872980285" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:information:contact"/>
@@ -11,15 +11,13 @@
     <file name="jquery.musemenu.js" crc="32367222" ref="index:information:contact"/>
     <file name="jquery.scrolleffects.js" crc="56249048" ref="index:information:contact"/>
     <file name="jquery.watch.js" crc="4199601726" ref="index:information:contact"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="888.png" crc="401176103" ref="index:information:contact"/>
-    <file name="u2331-grad.png" crc="3894198690" ref="index:information:contact"/>
-    <file name="u2331-r-grad.png" crc="113299158" ref="index:information:contact"/>
     <file name="562469848.png" crc="202483470" ref="information"/>
-    <file name="555.png" crc="3835631014" ref="index:information:contact"/>
+    <file name="555.png" crc="3835631014" ref="index:information"/>
     <file name="562469898.jpg" crc="4252537956" ref="contact"/>
-    <file name="консультант--favicon.ico" crc="3900705680" ref="index"/>
     <file name="==.png" crc="4203373968" ref="index"/>
     <file name="102744700_2aa.jpg" crc="240833064" ref="index"/>
     <file name="562470077.png" crc="3986089350" ref="index"/>
@@ -28,11 +26,14 @@
     <file name="4.png" crc="3758572356" ref="index"/>
     <file name="2.png" crc="280772019" ref="index"/>
     <file name="09.jpg" crc="3906207878" ref="index"/>
-    <file name="u1944-grad.png" crc="4028342496" ref="contact"/>
+    <file name="u1944-grad.png" crc="100185372" ref="contact"/>
     <file name="information-favicon.ico" crc="251271483" ref="information"/>
     <file name="contact-favicon.ico" crc="251271483" ref="contact"/>
+    <file name="u2440-grad.png" crc="3894198690" ref="information:contact:index"/>
+    <file name="u2440-r-grad.png" crc="113299158" ref="information:contact:index"/>
+    <file name="favicon.ico" crc="251271483" ref="index"/>
   </folder>
-  <file name="index.html" crc="4216345885" mt="1513627812505" redirect="true"/>
-  <file name="information.html" crc="397499016" mt="1513627827464" redirect="true"/>
-  <file name="contact.html" crc="128936679" mt="1513627812501" redirect="true"/>
+  <file name="index.html" crc="3904881315" mt="1513641264933" redirect="true"/>
+  <file name="information.html" crc="4002403036" mt="1513640476953" redirect="true"/>
+  <file name="contact.html" crc="325572141" mt="1513641136870" redirect="true"/>
 </manifest>
