@@ -3,9 +3,9 @@
     <folder name="css">
       <file name="contact.css" crc="3903182159" ref="phone>contact"/>
       <file name="information.css" crc="3784189803" ref="phone>information"/>
-      <file name="index.css" crc="340034964" ref="phone>index"/>
+      <file name="index.css" crc="217489658" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4054169047" mt="1513656220000" redirect="true"/>
+    <file name="index.html" crc="3968161800" mt="1513656579082" redirect="true"/>
     <file name="information.html" crc="4078647892" mt="1513654943965" redirect="true"/>
     <file name="contact.html" crc="236645252" mt="1513654556245" redirect="true"/>
   </folder>
