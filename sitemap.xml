@@ -169,6 +169,96 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/==378x126.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/102744700_2aa380x380.jpg</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/u3623-grad.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/562469898-page-fr.jpg</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/u3677-grad.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/u2780-grad.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/u3573-grad.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/u3577-grad.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/u3577-r-grad.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/u3577-m-grad.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/u3602-grad.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/u3602-r-grad.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/u3602-m-grad.png</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/566971729-u3561-fr.jpg</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/images/566971741-u3561-a-fr.jpg</loc>
+    <lastmod>2017-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/index.html</loc>
     <lastmod>2017-12-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -180,11 +270,13 @@
     <lastmod>2017-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/phone/information.html"/>
   </url>
   <url>
     <loc>http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/contact.html</loc>
     <lastmod>2017-12-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://xn--+-erb3aejcdzkcg3i.000webhostapp.com/phone/contact.html"/>
   </url>
 </urlset>

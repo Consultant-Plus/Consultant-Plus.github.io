@@ -1,13 +1,13 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="phone">
     <folder name="css">
-      <file name="contact.css" crc="3869322906" ref="phone>contact"/>
-      <file name="information.css" crc="3869322906" ref="phone>information"/>
-      <file name="index.css" crc="3863239462" ref="phone>index"/>
+      <file name="contact.css" crc="3903182159" ref="phone>contact"/>
+      <file name="information.css" crc="3784189803" ref="phone>information"/>
+      <file name="index.css" crc="3878934476" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4216950427" mt="1513648896793" redirect="true"/>
-    <file name="information.html" crc="237360700" mt="1513642636318" redirect="false"/>
-    <file name="contact.html" crc="3860900231" mt="1513642636365" redirect="false"/>
+    <file name="index.html" crc="3990333690" mt="1513654521661" redirect="true"/>
+    <file name="information.html" crc="4078647892" mt="1513654943965" redirect="true"/>
+    <file name="contact.html" crc="236645252" mt="1513654556245" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="465537477"/>
@@ -18,29 +18,30 @@
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:information:contact:phone>index:phone>information:phone>contact"/>
     <file name="museutils.js" crc="3880880085" ref="index:information:contact:phone>index:phone>information:phone>contact"/>
-    <file name="jquery.musemenu.js" crc="32367222" ref="index:information:contact:phone>index"/>
-    <file name="jquery.scrolleffects.js" crc="56249048" ref="index:information:contact"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index:information:contact:phone>index:phone>information:phone>contact"/>
+    <file name="jquery.scrolleffects.js" crc="56249048" ref="index:information:contact:phone>index"/>
     <file name="jquery.watch.js" crc="4199601726" ref="index:information:contact:phone>index:phone>information:phone>contact"/>
-    <file name="pie.js" crc="4147615982" ref="phone>index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="phone>index"/>
-    <file name="webpro.js" crc="33264525" ref="phone>index"/>
-    <file name="musewpslideshow.js" crc="272207905" ref="phone>index"/>
-    <file name="jquery.museoverlay.js" crc="466079611" ref="phone>index"/>
-    <file name="touchswipe.js" crc="261777990" ref="phone>index"/>
-    <file name="museredirect.js" crc="299715755" ref="index"/>
+    <file name="pie.js" crc="4147615982" ref="phone>index:phone>information:phone>contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="phone>index:phone>information:phone>contact"/>
+    <file name="webpro.js" crc="33264525" ref="phone>index:phone>information:phone>contact"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="phone>index:phone>information:phone>contact"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="phone>index:phone>information:phone>contact"/>
+    <file name="touchswipe.js" crc="261777990" ref="phone>index:phone>information:phone>contact"/>
+    <file name="museredirect.js" crc="299715755" ref="index:information:contact"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="phone>contact"/>
   </folder>
   <folder name="images">
-    <file name="888.png" crc="401176103" ref="index:information:contact:phone>index"/>
+    <file name="888.png" crc="401176103" ref="index:information:contact:phone>index:phone>information:phone>contact"/>
     <file name="562469848.png" crc="202483470" ref="information"/>
-    <file name="555.png" crc="3835631014" ref="index:information:phone>index"/>
-    <file name="562469898.jpg" crc="4252537956" ref="contact"/>
-    <file name="==.png" crc="4203373968" ref="index:phone>index"/>
+    <file name="555.png" crc="3835631014" ref="index:information:phone>index:phone>information:phone>contact"/>
+    <file name="562469898.jpg" crc="4252537956" ref="contact:phone>contact"/>
+    <file name="==.png" crc="4203373968" ref="index"/>
     <file name="102744700_2aa.jpg" crc="240833064" ref="index"/>
     <file name="562470077.png" crc="3986089350" ref="index"/>
-    <file name="3.png" crc="43746703" ref="index"/>
-    <file name="1.png" crc="402942697" ref="index"/>
-    <file name="4.png" crc="3758572356" ref="index"/>
-    <file name="2.png" crc="280772019" ref="index"/>
+    <file name="3.png" crc="43746703" ref="index:phone>index"/>
+    <file name="1.png" crc="402942697" ref="index:phone>index"/>
+    <file name="4.png" crc="3758572356" ref="index:phone>index"/>
+    <file name="2.png" crc="280772019" ref="index:phone>index"/>
     <file name="09.jpg" crc="3906207878" ref="index"/>
     <file name="information-favicon.ico" crc="251271483" ref="phone>information"/>
     <file name="contact-favicon.ico" crc="251271483" ref="phone>contact"/>
@@ -49,17 +50,32 @@
     <file name="favicon.ico" crc="251271483" ref="phone>index"/>
     <file name="u2763-grad.png" crc="338032699" ref="contact"/>
     <file name="562470077380x228.png" crc="3974215035" ref="phone>index"/>
-    <file name="u3369-grad.png" crc="309310268" ref="phone>index"/>
-    <file name="u3380-grad.png" crc="3912131229" ref="phone>index"/>
-    <file name="u3373-r-grad.png" crc="4229695035" ref="phone>index"/>
-    <file name="u3373-m-grad.png" crc="4268709206" ref="phone>index"/>
-    <file name="u3413-grad.png" crc="206949819" ref="phone>index"/>
-    <file name="u3413-r-grad.png" crc="4041472295" ref="phone>index"/>
-    <file name="u3413-m-grad.png" crc="372276394" ref="phone>index"/>
-    <file name="566971729-u3362-fr.jpg" crc="304316532" ref="phone>index"/>
-    <file name="566971741-u3362-a-fr.jpg" crc="4164951562" ref="phone>index"/>
+    <file name="u3369-grad.png" crc="12969347" ref="phone>index:phone>contact"/>
+    <file name="u3380-grad.png" crc="3887912593" ref="phone>index:phone>contact"/>
+    <file name="u3373-r-grad.png" crc="3778241266" ref="phone>index:phone>contact"/>
+    <file name="u3373-m-grad.png" crc="3833442517" ref="phone>index:phone>contact"/>
+    <file name="u3413-grad.png" crc="4019558044" ref="phone>index:phone>contact"/>
+    <file name="u3413-r-grad.png" crc="3817929267" ref="phone>index"/>
+    <file name="u3413-m-grad.png" crc="4190952926" ref="phone>index"/>
+    <file name="566971729-u3362-fr.jpg" crc="3758998572" ref="phone>index:phone>contact"/>
+    <file name="566971741-u3362-a-fr.jpg" crc="248630222" ref="phone>index:phone>contact"/>
+    <file name="==378x126.png" crc="135260455" ref="phone>index"/>
+    <file name="102744700_2aa380x380.jpg" crc="199862789" ref="phone>index"/>
+    <file name="u3623-grad.png" crc="4074873293" ref="phone>index"/>
+    <file name="562469898-page-fr.jpg" crc="4118924740" ref="phone>contact"/>
+    <file name="u3677-grad.png" crc="338032699" ref="phone>contact"/>
+    <file name="u2780-grad.png" crc="3931392851" ref="phone>information"/>
+    <file name="u3573-grad.png" crc="12969347" ref="phone>information"/>
+    <file name="u3577-grad.png" crc="3887912593" ref="phone>information"/>
+    <file name="u3577-r-grad.png" crc="3778241266" ref="phone>information"/>
+    <file name="u3577-m-grad.png" crc="3833442517" ref="phone>information"/>
+    <file name="u3602-grad.png" crc="4019558044" ref="phone>information"/>
+    <file name="u3602-r-grad.png" crc="3817929267" ref="phone>information"/>
+    <file name="u3602-m-grad.png" crc="4190952926" ref="phone>information"/>
+    <file name="566971729-u3561-fr.jpg" crc="3758998572" ref="phone>information"/>
+    <file name="566971741-u3561-a-fr.jpg" crc="248630222" ref="phone>information"/>
   </folder>
   <file name="index.html" crc="48558919" mt="1513642636265" redirect="true"/>
-  <file name="information.html" crc="4002403036" mt="1513642636314" redirect="true"/>
-  <file name="contact.html" crc="263415969" mt="1513642636361" redirect="true"/>
+  <file name="information.html" crc="23245742" mt="1513642636314" redirect="true"/>
+  <file name="contact.html" crc="3848380218" mt="1513642636361" redirect="true"/>
 </manifest>
