@@ -286,16 +286,16 @@
 #u1902
 {
 	z-index: 5;
-	width: 1400px;
+	width: 1401px;
 	position: fixed;
-	top: 79px;
-	left: -100px;
+	top: 78px;
+	left: -101px;
 }
 
 #pu1529
 {
 	width: 0.01px;
-	left: -100px;
+	left: -101px;
 	position: relative;
 }
 
@@ -313,30 +313,27 @@
 	filter: alpha(opacity=66);
 	position: relative;
 	margin-right: -10000px;
-	left: 120px;
+	left: 121px;
 }
 
-#u1944
+#u2763
 {
 	z-index: 7;
-	width: 1399px;
-	height: 460px;
-	background: #000000 url("../images/u1944-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(#0000FF),color-stop(60%, #000000));
-	background: -webkit-linear-gradient(top,#0000FF ,#000000 60%);
-	background: -moz-linear-gradient(top,#0000FF ,#000000 60%);
-	background: -ms-linear-gradient(top,#0000FF ,#000000 60%);
-	background: -o-linear-gradient(top,#0000FF ,#000000 60%);
-	background: linear-gradient(to bottom,#0000FF ,#000000 60%);
+	width: 1400px;
+	height: 469px;
+	background: #000000 url("../images/u2763-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#0000FF),color-stop(90%, #000000));
+	background: -webkit-linear-gradient(top,#0000FF ,#000000 90%);
+	background: -moz-linear-gradient(top,#0000FF ,#000000 90%);
+	background: -ms-linear-gradient(top,#0000FF ,#000000 90%);
+	background: -o-linear-gradient(top,#0000FF ,#000000 90%);
+	background: linear-gradient(to bottom,#0000FF ,#000000 90%);
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	opacity: 0.9;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
-	filter: alpha(opacity=90);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 143px;
+	margin-top: 127px;
 }
 
 #u1945-14
@@ -351,8 +348,8 @@
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 164px;
-	left: 120px;
+	margin-top: 143px;
+	left: 121px;
 }
 
 #u1945
