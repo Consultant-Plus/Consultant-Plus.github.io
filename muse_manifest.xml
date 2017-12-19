@@ -3,9 +3,9 @@
     <folder name="css">
       <file name="contact.css" crc="3903182159" ref="phone>contact"/>
       <file name="information.css" crc="3784189803" ref="phone>information"/>
-      <file name="index.css" crc="3781524448" ref="phone>index"/>
+      <file name="index.css" crc="285605216" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="492550090" mt="1513655267200" redirect="true"/>
+    <file name="index.html" crc="4054169047" mt="1513655832600" redirect="true"/>
     <file name="information.html" crc="4078647892" mt="1513654943965" redirect="true"/>
     <file name="contact.html" crc="236645252" mt="1513654556245" redirect="true"/>
   </folder>
@@ -60,7 +60,6 @@
     <file name="566971729-u3362-fr.jpg" crc="3758998572" ref="phone>index:phone>contact"/>
     <file name="566971741-u3362-a-fr.jpg" crc="248630222" ref="phone>index:phone>contact"/>
     <file name="==378x126.png" crc="135260455" ref="phone>index"/>
-    <file name="102744700_2aa380x380.jpg" crc="199862789" ref="phone>index"/>
     <file name="u3623-grad.png" crc="4074873293" ref="phone>index"/>
     <file name="562469898-page-fr.jpg" crc="4118924740" ref="phone>contact"/>
     <file name="u3677-grad.png" crc="338032699" ref="phone>contact"/>
@@ -74,6 +73,7 @@
     <file name="u3602-m-grad.png" crc="4190952926" ref="phone>information"/>
     <file name="566971729-u3561-fr.jpg" crc="3758998572" ref="phone>information"/>
     <file name="566971741-u3561-a-fr.jpg" crc="248630222" ref="phone>information"/>
+    <file name="102744700_2aa379x379.jpg" crc="229058605" ref="phone>index"/>
   </folder>
   <file name="index.html" crc="48558919" mt="1513642636265" redirect="true"/>
   <file name="information.html" crc="23245742" mt="1513642636314" redirect="true"/>

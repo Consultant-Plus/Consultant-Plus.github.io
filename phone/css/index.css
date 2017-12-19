@@ -32,25 +32,26 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 853px;
+	min-height: 852.9999999999989px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #000000;
+	padding-bottom: 0px;
 }
 
 #page_position_content
 {
-	margin-top: -1px;
 	margin-bottom: -400px;
 }
 
 #pamphletu3328
 {
-	z-index: 47;
+	z-index: 49;
 	width: 0.01px;
 	height: 101px;
 	padding-bottom: 207px;
+	left: -1px;
 	position: relative;
 }
 
@@ -62,12 +63,12 @@
 
 #u3341popup
 {
-	z-index: 48;
+	z-index: 50;
 }
 
 #u3352
 {
-	z-index: 49;
+	z-index: 51;
 	width: 379px;
 	height: 307px;
 	border-width: 1px;
@@ -84,7 +85,7 @@
 
 #u3420-3
 {
-	z-index: 50;
+	z-index: 52;
 	width: 123px;
 	min-height: 33px;
 	position: relative;
@@ -95,7 +96,7 @@
 
 #menuu3369
 {
-	z-index: 53;
+	z-index: 55;
 	width: 380px;
 	background: #000000 url("../../images/u3369-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(44%, #FFFFFF),to(#000000));
@@ -352,7 +353,7 @@
 
 #u3333
 {
-	z-index: 72;
+	z-index: 74;
 	width: 91px;
 	position: relative;
 	margin-right: -10000px;
@@ -392,7 +393,7 @@
 
 #u3362
 {
-	z-index: 74;
+	z-index: 76;
 	width: 89px;
 	height: 99px;
 	border-width: 1px;
@@ -434,7 +435,7 @@
 	z-index: 10;
 	width: 378px;
 	margin-left: 1px;
-	top: -228px;
+	top: -213px;
 	margin-bottom: -126px;
 	position: relative;
 }
@@ -444,7 +445,7 @@
 	z-index: 5;
 	width: 5px;
 	left: -315px;
-	margin-top: 112px;
+	margin-top: 111px;
 	position: relative;
 }
 
@@ -452,7 +453,7 @@
 {
 	z-index: 8;
 	width: 380px;
-	top: -249px;
+	top: -248px;
 	margin-bottom: -227px;
 	position: relative;
 }
@@ -479,10 +480,10 @@
 #u3530
 {
 	z-index: 14;
-	width: 380px;
+	width: 379px;
 	position: relative;
 	margin-right: -10000px;
-	left: 1px;
+	left: 2px;
 }
 
 #u3536
@@ -612,7 +613,7 @@
 {
 	z-index: 41;
 	width: 386px;
-	left: -3px;
+	left: -2px;
 	position: relative;
 }
 
@@ -630,9 +631,9 @@
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	padding-bottom: 39px;
-	top: -2px;
-	margin-bottom: -2px;
+	padding-bottom: 35px;
+	top: -5px;
+	margin-bottom: -5px;
 	position: relative;
 }
 
@@ -650,16 +651,16 @@
 	font-style: normal;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 41px;
+	margin-top: 45px;
+	left: -1px;
 }
 
 #u3617
 {
-	z-index: 75;
+	z-index: 47;
 	width: 385px;
 	left: -1px;
-	top: -2px;
-	margin-bottom: -2px;
+	margin-top: 3px;
 	position: relative;
 }
 
@@ -668,7 +669,6 @@
 	z-index: 3;
 	width: 150px;
 	margin-left: 119px;
-	margin-top: 1px;
 	position: relative;
 }
 
