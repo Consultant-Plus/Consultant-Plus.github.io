@@ -1,13 +1,13 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="phone">
     <folder name="css">
-      <file name="contact.css" crc="52856419" ref="phone>contact"/>
-      <file name="information.css" crc="3980587701" ref="phone>information"/>
+      <file name="contact.css" crc="3780650024" ref="phone>contact"/>
+      <file name="information.css" crc="3953189826" ref="phone>information"/>
       <file name="index.css" crc="217489658" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="3968161800" mt="1513656579082" redirect="true"/>
-    <file name="information.html" crc="4038898777" mt="1513739136255" redirect="true"/>
-    <file name="contact.html" crc="316233356" mt="1513739164690" redirect="true"/>
+    <file name="information.html" crc="3768675620" mt="1513739660542" redirect="true"/>
+    <file name="contact.html" crc="316233356" mt="1513739581314" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="465537477"/>
