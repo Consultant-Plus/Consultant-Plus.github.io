@@ -1,13 +1,13 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="phone">
     <folder name="css">
-      <file name="contact.css" crc="3903182159" ref="phone>contact"/>
-      <file name="information.css" crc="3784189803" ref="phone>information"/>
+      <file name="contact.css" crc="52856419" ref="phone>contact"/>
+      <file name="information.css" crc="3980587701" ref="phone>information"/>
       <file name="index.css" crc="217489658" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="3968161800" mt="1513656579082" redirect="true"/>
-    <file name="information.html" crc="4078647892" mt="1513654943965" redirect="true"/>
-    <file name="contact.html" crc="236645252" mt="1513654556245" redirect="true"/>
+    <file name="information.html" crc="4038898777" mt="1513739136255" redirect="true"/>
+    <file name="contact.html" crc="316233356" mt="1513739164690" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="465537477"/>
@@ -34,7 +34,7 @@
     <file name="888.png" crc="401176103" ref="index:information:contact:phone>index:phone>information:phone>contact"/>
     <file name="562469848.png" crc="202483470" ref="information"/>
     <file name="555.png" crc="3835631014" ref="index:information:phone>index:phone>information:phone>contact"/>
-    <file name="562469898.jpg" crc="4252537956" ref="contact:phone>contact"/>
+    <file name="562469898.jpg" crc="4252537956" ref="contact"/>
     <file name="==.png" crc="4203373968" ref="index"/>
     <file name="102744700_2aa.jpg" crc="240833064" ref="index"/>
     <file name="562470077.png" crc="3986089350" ref="index"/>
@@ -50,30 +50,31 @@
     <file name="favicon.ico" crc="251271483" ref="phone>index"/>
     <file name="u2763-grad.png" crc="338032699" ref="contact"/>
     <file name="562470077380x228.png" crc="3974215035" ref="phone>index"/>
-    <file name="u3369-grad.png" crc="12969347" ref="phone>index:phone>contact"/>
-    <file name="u3380-grad.png" crc="3887912593" ref="phone>index:phone>contact"/>
-    <file name="u3373-r-grad.png" crc="3778241266" ref="phone>index:phone>contact"/>
-    <file name="u3373-m-grad.png" crc="3833442517" ref="phone>index:phone>contact"/>
-    <file name="u3413-grad.png" crc="4019558044" ref="phone>index:phone>contact"/>
+    <file name="u3369-grad.png" crc="12969347" ref="phone>index"/>
+    <file name="u3380-grad.png" crc="3887912593" ref="phone>index"/>
+    <file name="u3373-r-grad.png" crc="3778241266" ref="phone>index"/>
+    <file name="u3373-m-grad.png" crc="3833442517" ref="phone>index"/>
+    <file name="u3413-grad.png" crc="4019558044" ref="phone>index"/>
     <file name="u3413-r-grad.png" crc="3817929267" ref="phone>index"/>
     <file name="u3413-m-grad.png" crc="4190952926" ref="phone>index"/>
-    <file name="566971729-u3362-fr.jpg" crc="3758998572" ref="phone>index:phone>contact"/>
-    <file name="566971741-u3362-a-fr.jpg" crc="248630222" ref="phone>index:phone>contact"/>
+    <file name="566971729-u3362-fr.jpg" crc="3758998572" ref="phone>index"/>
+    <file name="566971741-u3362-a-fr.jpg" crc="248630222" ref="phone>index"/>
     <file name="==378x126.png" crc="135260455" ref="phone>index"/>
     <file name="u3623-grad.png" crc="4074873293" ref="phone>index"/>
-    <file name="562469898-page-fr.jpg" crc="4118924740" ref="phone>contact"/>
-    <file name="u3677-grad.png" crc="338032699" ref="phone>contact"/>
+    <file name="u3677-grad.png" crc="4271839911" ref="phone>contact"/>
     <file name="u2780-grad.png" crc="3931392851" ref="phone>information"/>
-    <file name="u3573-grad.png" crc="12969347" ref="phone>information"/>
-    <file name="u3577-grad.png" crc="3887912593" ref="phone>information"/>
-    <file name="u3577-r-grad.png" crc="3778241266" ref="phone>information"/>
-    <file name="u3577-m-grad.png" crc="3833442517" ref="phone>information"/>
-    <file name="u3602-grad.png" crc="4019558044" ref="phone>information"/>
+    <file name="u3573-grad.png" crc="12969347" ref="phone>information:phone>contact"/>
+    <file name="u3577-grad.png" crc="3887912593" ref="phone>information:phone>contact"/>
+    <file name="u3577-r-grad.png" crc="3778241266" ref="phone>information:phone>contact"/>
+    <file name="u3577-m-grad.png" crc="3833442517" ref="phone>information:phone>contact"/>
+    <file name="u3602-grad.png" crc="4019558044" ref="phone>information:phone>contact"/>
     <file name="u3602-r-grad.png" crc="3817929267" ref="phone>information"/>
     <file name="u3602-m-grad.png" crc="4190952926" ref="phone>information"/>
-    <file name="566971729-u3561-fr.jpg" crc="3758998572" ref="phone>information"/>
-    <file name="566971741-u3561-a-fr.jpg" crc="248630222" ref="phone>information"/>
+    <file name="566971729-u3561-fr.jpg" crc="3758998572" ref="phone>information:phone>contact"/>
+    <file name="566971741-u3561-a-fr.jpg" crc="248630222" ref="phone>information:phone>contact"/>
     <file name="102744700_2aa379x379.jpg" crc="229058605" ref="phone>index"/>
+    <file name="rf-icon-_save-your-precious-time_.gif" crc="248855300" ref="phone>information"/>
+    <file name="5eeeba_4933a5ba53814661ba21b6741676d79d_mv2.gif" crc="4210571687" ref="phone>contact"/>
   </folder>
   <file name="index.html" crc="48558919" mt="1513642636265" redirect="true"/>
   <file name="information.html" crc="23245742" mt="1513642636314" redirect="true"/>
