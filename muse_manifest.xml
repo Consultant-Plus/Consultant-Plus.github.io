@@ -11,9 +11,9 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="465537477"/>
-    <file name="index.css" crc="119355481" ref="index"/>
-    <file name="information.css" crc="3953093989" ref="information"/>
-    <file name="contact.css" crc="473319092" ref="contact"/>
+    <file name="index.css" crc="3986074045" ref="index"/>
+    <file name="information.css" crc="16177820" ref="information"/>
+    <file name="contact.css" crc="531373690" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:information:contact:phone>index:phone>information:phone>contact"/>
@@ -31,7 +31,7 @@
     <file name="jquery.tobrowserwidth.js" crc="152985095" ref="phone>contact"/>
   </folder>
   <folder name="images">
-    <file name="888.png" crc="401176103" ref="index:information:contact:phone>index:phone>information:phone>contact"/>
+    <file name="888.png" crc="401176103" ref="index:information:phone>index:phone>information:phone>contact"/>
     <file name="562469848.png" crc="202483470" ref="information"/>
     <file name="555.png" crc="3835631014" ref="index:information:phone>index:phone>information:phone>contact"/>
     <file name="562469898.jpg" crc="4252537956" ref="contact"/>
@@ -42,9 +42,8 @@
     <file name="1.png" crc="402942697" ref="index:phone>index"/>
     <file name="4.png" crc="3758572356" ref="index:phone>index"/>
     <file name="2.png" crc="280772019" ref="index:phone>index"/>
-    <file name="09.jpg" crc="3906207878" ref="index"/>
-    <file name="information-favicon.ico" crc="251271483" ref="phone>information"/>
-    <file name="contact-favicon.ico" crc="251271483" ref="phone>contact"/>
+    <file name="information-favicon.ico" crc="251271483" ref="phone>information:information"/>
+    <file name="contact-favicon.ico" crc="251271483" ref="phone>contact:contact"/>
     <file name="u2440-grad.png" crc="3894198690" ref="information:index:contact"/>
     <file name="u2440-r-grad.png" crc="113299158" ref="information:index:contact"/>
     <file name="favicon.ico" crc="251271483" ref="phone>index"/>
@@ -75,8 +74,10 @@
     <file name="102744700_2aa379x379.jpg" crc="229058605" ref="phone>index"/>
     <file name="rf-icon-_save-your-precious-time_.gif" crc="248855300" ref="phone>information"/>
     <file name="5eeeba_4933a5ba53814661ba21b6741676d79d_mv2.gif" crc="4210571687" ref="phone>contact"/>
+    <file name="консультант--favicon.ico" crc="251271483" ref="index"/>
+    <file name="091201x318.jpg" crc="3767240670" ref="index"/>
   </folder>
-  <file name="index.html" crc="48558919" mt="1513642636265" redirect="true"/>
-  <file name="information.html" crc="23245742" mt="1513642636314" redirect="true"/>
-  <file name="contact.html" crc="3848380218" mt="1513642636361" redirect="true"/>
+  <file name="index.html" crc="4272499363" mt="1513943218837" redirect="true"/>
+  <file name="information.html" crc="4044675067" mt="1513943300608" redirect="true"/>
+  <file name="contact.html" crc="4198579588" mt="1513943393901" redirect="true"/>
 </manifest>
