@@ -11,8 +11,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="465537477"/>
-    <file name="index.css" crc="4086018329" ref="index"/>
-    <file name="information.css" crc="400791885" ref="information"/>
+    <file name="index.css" crc="386181919" ref="index"/>
+    <file name="information.css" crc="3987164054" ref="information"/>
     <file name="contact.css" crc="4261657109" ref="contact"/>
   </folder>
   <folder name="scripts">
@@ -77,7 +77,7 @@
     <file name="консультант--favicon.ico" crc="251271483" ref="index"/>
     <file name="091201x318.jpg" crc="3767240670" ref="index"/>
   </folder>
-  <file name="index.html" crc="5704801" mt="1513999369201" redirect="true"/>
-  <file name="information.html" crc="4012946710" mt="1513999555769" redirect="true"/>
+  <file name="index.html" crc="364678735" mt="1513999927413" redirect="true"/>
+  <file name="information.html" crc="3862234859" mt="1514000019387" redirect="true"/>
   <file name="contact.html" crc="3951208424" mt="1513999296968" redirect="true"/>
 </manifest>
