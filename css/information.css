@@ -6,27 +6,21 @@
 #page
 {
 	z-index: 1;
-	width: 1200px;
-	min-height: 499.49353331577913px;
+	width: 149px;
+	min-height: 0px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #000000;
-	padding-bottom: 1px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#page_position_content
-{
-	margin-top: 78px;
-	margin-bottom: 115px;
+	padding: 1212px 522px 115.33333333333326px 529px;
 }
 
 #menuu2307
 {
-	z-index: 8;
+	z-index: 6;
 	width: 1200px;
 	border-style: none;
 	border-color: transparent;
@@ -288,23 +282,15 @@
 {
 	z-index: 4;
 	width: 1200px;
-	position: relative;
-}
-
-#u2266
-{
-	z-index: 6;
-	width: 1217px;
-	left: -5px;
-	position: relative;
+	position: fixed;
+	top: 319px;
+	left: -1px;
 }
 
 #u1578
 {
 	z-index: 2;
 	width: 149px;
-	margin-left: 529px;
-	margin-top: 538px;
 	position: relative;
 }
 

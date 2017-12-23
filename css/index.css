@@ -47,7 +47,7 @@
 #u2676
 {
 	width: 398px;
-	background: #0000FF url("../images/u2440-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2676-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #FFFFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#FFFFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#FFFFFF 58%,#0000FF );
@@ -60,7 +60,7 @@
 
 #u2676.MuseMenuActive
 {
-	background: #0000FF url("../images/u2440-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2676-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #FFFFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#FFFFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#FFFFFF 58%,#0000FF );
@@ -116,7 +116,7 @@
 #u2662
 {
 	width: 399px;
-	background: #0000FF url("../images/u2440-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2676-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #FFFFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#FFFFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#FFFFFF 58%,#0000FF );
@@ -129,7 +129,7 @@
 
 #u2662:hover
 {
-	background: #0000FF url("../images/u2440-r-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2662-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #00FFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#00FFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#00FFFF 58%,#0000FF );
@@ -141,7 +141,7 @@
 
 #u2662:active
 {
-	background: #0000FF url("../images/u2440-r-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2662-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #00FFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#00FFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#00FFFF 58%,#0000FF );
@@ -196,7 +196,7 @@
 #u2669
 {
 	width: 399px;
-	background: #0000FF url("../images/u2440-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2676-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #FFFFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#FFFFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#FFFFFF 58%,#0000FF );
@@ -209,7 +209,7 @@
 
 #u2669:hover
 {
-	background: #0000FF url("../images/u2440-r-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2662-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #00FFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#00FFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#00FFFF 58%,#0000FF );
@@ -221,7 +221,7 @@
 
 #u2669:active
 {
-	background: #0000FF url("../images/u2440-r-grad.png") repeat-x left top;
+	background: #0000FF url("../images/u2662-r-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, color-stop(58%, #00FFFF),to(#0000FF));
 	background: -webkit-linear-gradient(top,#00FFFF 58%,#0000FF );
 	background: -moz-linear-gradient(top,#00FFFF 58%,#0000FF );
@@ -370,7 +370,7 @@
 #u2719
 {
 	z-index: 2;
-	width: 1203px;
+	width: 1199px;
 	position: fixed;
 	top: 798px;
 	left: 0px;
@@ -379,8 +379,8 @@
 #u2529
 {
 	z-index: 44;
-	width: 1214px;
-	left: -1px;
+	width: 1221px;
+	left: -8px;
 	position: relative;
 }
 
@@ -388,7 +388,7 @@
 {
 	width: 0.01px;
 	margin-left: 6px;
-	margin-top: 82px;
+	margin-top: 81px;
 	position: relative;
 }
 
@@ -522,7 +522,7 @@
 #pu2527
 {
 	width: 0.01px;
-	left: -6px;
+	left: -8px;
 	margin-top: 60px;
 	position: relative;
 }
@@ -534,13 +534,13 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 20px;
-	left: 5px;
+	left: 7px;
 }
 
 #u2724
 {
 	z-index: 42;
-	width: 1218px;
+	width: 1220px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -560,7 +560,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 29px;
-	left: 5px;
+	left: 7px;
 }
 
 #u2520
