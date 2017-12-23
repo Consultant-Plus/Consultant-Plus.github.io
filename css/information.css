@@ -1,6 +1,14 @@
 .html
 {
-	background-color: #000000;
+	background-color: #0000FF;
+	background: -webkit-gradient(linear, center top, center bottom, from(#0000FF),color-stop(100%, #000000));
+	background: -webkit-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -moz-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -ms-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -o-linear-gradient(top,#0000FF ,#000000 100%);
+	background: linear-gradient(to bottom,#0000FF ,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0000FF, endColorstr=#FF000000, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0000FF', endColorstr='#FF000000', GradientType=0)";
 }
 
 #page
@@ -8,11 +16,17 @@
 	z-index: 1;
 	width: 149px;
 	min-height: 0px;
-	background-image: none;
+	background: -webkit-gradient(linear, center top, center bottom, from(#0000FF),color-stop(100%, #000000));
+	background: -webkit-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -moz-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -ms-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -o-linear-gradient(top,#0000FF ,#000000 100%);
+	background: linear-gradient(to bottom,#0000FF ,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0000FF, endColorstr=#FF000000, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0000FF', endColorstr='#FF000000', GradientType=0)";
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	background-color: #000000;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 1212px 522px 115.33333333333326px 529px;
@@ -26,7 +40,7 @@
 	border-color: transparent;
 	background-color: #000000;
 	position: fixed;
-	top: -38px;
+	top: -39px;
 	left: 0px;
 }
 
@@ -84,8 +98,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	color: #FF0000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -152,8 +166,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	color: #FF0000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -233,8 +247,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	color: #FF0000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;

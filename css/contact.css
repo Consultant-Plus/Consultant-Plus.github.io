@@ -1,6 +1,14 @@
 .html
 {
-	background-color: #000000;
+	background-color: #0000FF;
+	background: -webkit-gradient(linear, center top, center bottom, from(#0000FF),color-stop(100%, #000000));
+	background: -webkit-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -moz-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -ms-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -o-linear-gradient(top,#0000FF ,#000000 100%);
+	background: linear-gradient(to bottom,#0000FF ,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0000FF, endColorstr=#FF000000, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0000FF', endColorstr='#FF000000', GradientType=0)";
 }
 
 #page
@@ -8,11 +16,17 @@
 	z-index: 1;
 	width: 1200px;
 	min-height: 438px;
-	background-image: none;
+	background: -webkit-gradient(linear, center top, center bottom, from(#0000FF),color-stop(100%, #000000));
+	background: -webkit-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -moz-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -ms-linear-gradient(top,#0000FF ,#000000 100%);
+	background: -o-linear-gradient(top,#0000FF ,#000000 100%);
+	background: linear-gradient(to bottom,#0000FF ,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0000FF, endColorstr=#FF000000, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0000FF', endColorstr='#FF000000', GradientType=0)";
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	background-color: #000000;
 	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
@@ -84,8 +98,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	color: #FF0000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -164,8 +178,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	color: #FF0000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -232,8 +246,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	text-align: center;
-	font-size: 36px;
 	line-height: 43px;
+	font-size: 36px;
 	color: #FF0000;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
@@ -287,33 +301,12 @@
 	left: 0px;
 }
 
-#u2763
-{
-	z-index: 5;
-	width: 1199px;
-	height: 469px;
-	background: #000000 url("../images/u2763-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(#0000FF),color-stop(90%, #000000));
-	background: -webkit-linear-gradient(top,#0000FF ,#000000 90%);
-	background: -moz-linear-gradient(top,#0000FF ,#000000 90%);
-	background: -ms-linear-gradient(top,#0000FF ,#000000 90%);
-	background: -o-linear-gradient(top,#0000FF ,#000000 90%);
-	background: linear-gradient(to bottom,#0000FF ,#000000 90%);
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	position: fixed;
-	top: 314px;
-	left: 0px;
-}
-
 #pu1529
 {
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 187px;
-	left: 20px;
 }
 
 #u1529
@@ -330,6 +323,27 @@
 	filter: alpha(opacity=66);
 	position: relative;
 	margin-right: -10000px;
+	left: 20px;
+}
+
+#u2763
+{
+	z-index: 5;
+	width: 1199px;
+	height: 469px;
+	background: #000000 url("../images/u2763-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#0000FF),color-stop(90%, #000000));
+	background: -webkit-linear-gradient(top,#0000FF ,#000000 90%);
+	background: -moz-linear-gradient(top,#0000FF ,#000000 90%);
+	background: -ms-linear-gradient(top,#0000FF ,#000000 90%);
+	background: -o-linear-gradient(top,#0000FF ,#000000 90%);
+	background: linear-gradient(to bottom,#0000FF ,#000000 90%);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 127px;
 }
 
 #u1945-14
@@ -338,13 +352,14 @@
 	width: 1160px;
 	min-height: 1140px;
 	text-align: center;
-	font-size: 60px;
 	line-height: 73px;
+	font-size: 60px;
 	color: #FFFFFF;
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 143px;
+	left: 20px;
 }
 
 #u1945
